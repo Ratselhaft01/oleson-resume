@@ -4,10 +4,10 @@ title: Michael Porter Oleson's Resume
 ---
 # Michael Porter Oleson
 
-303-681-5609 | porter.oleson@gmail.com
-
 <div id="webaddress">
-<a href="https://www.linkedin.com/in/michael-oleson/">LinkedIn</a>
+<a href="303-681-5609">303-681-5609</a>
+| <a href="porter.oleson@gmail.com">porter.oleson@gmail.com</a>
+| <a href="https://www.linkedin.com/in/michael-oleson/">LinkedIn</a>
 </div>
 
 
